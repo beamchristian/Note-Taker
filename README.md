@@ -14,7 +14,6 @@ This application is covered under the MIT License.
 
 ## Table of Contents
 
-- [installation](#installation)
 - [License](#license)
 - [Contributing](#contributing)
 - [Credits](#credits)
