@@ -6,6 +6,8 @@
 
 A note taking Application
 
+- [Deployment](https://whispering-harbor-85151.herokuapp.com/)
+
 ## License
 
 This application is covered under the MIT License.
